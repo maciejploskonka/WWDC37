@@ -14,6 +14,6 @@ One page site. PSD from FB Weekly WebDev Challenge group.
 
 ## Code/Live
 
-- [Live](https://maciejploskonka.github.io/wwdc37/dist)
+- [Live](https://maciejploskonka.github.io/wwdc37/dist/)
 
 - [Code](https://github.com/maciejploskonka/wwdc37)
